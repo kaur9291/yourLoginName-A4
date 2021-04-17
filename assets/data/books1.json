@@ -1,0 +1,8 @@
+{
+  "books":
+	[
+		{"name": "Microsoft Project 2019 Step by Step, Fifth Edition","publisher": "Microsoft Press", "author":"Cindy Lewis, Carl Chatfield, Timothy Johnson","myOpinion":"Good Book"},
+    {"name": "Information technology Project Management","publisher": "Course Technology/Cengage Learning", "author":"Schwalbe, Kathy","myOpinion":"Good Book"},
+    {"name": "PMP: Project Management Professional Practice Tests","publisher": "Sybex © 2018", "author":"Kim Heldman, Vanina Mangano","myOpinion":"Good Book"}
+  ]
+}

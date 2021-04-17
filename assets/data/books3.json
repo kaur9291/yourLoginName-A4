@@ -1,0 +1,8 @@
+{
+  "books":
+	[
+		{"name": "Beginning ASP.NET 1.1 with Visual C# .NET 2003","publisher": "Wrox Press © 2004", "author":"Chris Ullman, et al.","myOpinion":"Good Book"},
+    {"name": "Professional C# 2012 and .NET 4.5","publisher": "Wrox Press © 2013", "author":"Christian Nagel, Bill Evjen, Jay Glynn, Karli Watson,Morgan Skinner","myOpinion":"Good Book"},
+    {"name": "Pro C# 7: With .NET and .NET Core","publisher": "Apress", "author":"Andrew Troelsen, Philip Japikse","myOpinion":"Good Book"}
+  ]
+}

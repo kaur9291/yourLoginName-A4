@@ -1,0 +1,8 @@
+{
+  "books":
+	[
+		{"name": "Introduction to Java programming: comprehensive version","publisher": "Pearson", "author":"Liang, Y. Daniel","myOpinion":"Good Book"},
+    {"name": "Introduction to Programming in Java: An Interdisciplinary Approach","publisher": "Addison-Wesley Professional", "author":"Kevin Wayne, Robert Sedgewick","myOpinion":"Good Book"},
+    {"name": "Beginning Java Programming: The Object-Oriented Approach","publisher": " Wrox Press © 2015", "author":"Bart Baesens, Aimée Backiel,Seppe vanden Broucke","myOpinion":"Good Book"}
+  ]
+}
